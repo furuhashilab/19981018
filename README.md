@@ -1,5 +1,4 @@
-2019年度ゼミ論用レポジトリ
-プレゼン用スライド
+2019年度ゼミ論プレゼン用スライド
 https://docs.google.com/presentation/d/1LHwpIzCR--dOoh5Hqi9JkZSNixCYX1XS10PoGzB9ixY/edit?usp=sharing
 ゼミ論提出用テンプレート
 https://docs.google.com/document/d/1ZqQA4PsyAy80pqzW5FNAHIBz-CQhIklU-sHP61F2rwk/edit?usp=sharing
