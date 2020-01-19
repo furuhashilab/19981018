@@ -4,7 +4,7 @@ https://docs.google.com/presentation/d/1LHwpIzCR--dOoh5Hqi9JkZSNixCYX1XS10PoGzB9
 https://docs.google.com/document/d/1ZqQA4PsyAy80pqzW5FNAHIBz-CQhIklU-sHP61F2rwk/edit?usp=sharing
 参考文献⇨
 https://docs.google.com/spreadsheets/d/1oVVPfBow8z7E-vLnra6WgyajFb-hPtQkOLBA9MC2tx4/edit?usp=sharing
-
+# 都内の場所別に見るファッションの色
 # 動機
 元々、ファッションには興味がありたくさんのファッション雑誌を読んできました。
 そして、関西出身の私は東京の渋谷で見る人々の服装に違和感を感じました。同じ時代で、年齢層が同じでも全く違うファッションのカラーを着ていることが不思議でした。そこで、今回の研究では私が今まで得た知識を活かすとともに、ゼミ活動で得た位置情報を利用したいと思い、この研究に決定いたしました。
